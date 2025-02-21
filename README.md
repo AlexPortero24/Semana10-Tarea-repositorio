@@ -4,10 +4,10 @@ Este es un  repositorio, hecho para cumplir  con la actividad de la semana 10 (T
 ARCHIVO DEL REPOSITORIO:
    Calculadora
 
-DATOS DEL ALUMNO
+# DATOS DEL ALUMNO
 -----------------------------------------------------------------------------------------------------------------------------------
-Univeridad Estatal Amazonica 
-Carrera: Tecnologias de la Informacion 
-Nombre: Alex David Portero Donoso
-Asignatura: Fundamentos de Programacion
+# Univeridad Estatal Amazonica 
+# Carrera: Tecnologias de la Informacion 
+# Nombre: Alex David Portero Donoso
+# Asignatura: Fundamentos de Programacion
 

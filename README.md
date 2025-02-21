@@ -14,12 +14,12 @@ ARCHIVO DEL REPOSITORIO:
 
 # ASIGNATURA: FUNDAMENTOS DE PROGRAMACION (C)
 
-#TEMA: Repositorio y Rchivo README
+# TEMA: Repositorio y Archivo README
 
-#ALUMNO: Alex David Portero Donoso
+# ALUMNO: Alex David Portero Donoso
 
 # DOCENTE: Mgs.  Luis Antonio Llerena Ocaña
 
 # SEMESTRE: Primer Nivel 
 
-#FECHA: domingo, 23 de febrero de 2025
+# FECHA: domingo, 23 de febrero de 2025

@@ -1,0 +1,3 @@
+línea 1: Hola, me llamo Alex. Ejemplo de escritura.
+línea 2: Este es el ejemplo de la tarea.
+línea 3: Aprendiendo a manejar archivos en Python.
